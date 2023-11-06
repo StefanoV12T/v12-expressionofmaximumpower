@@ -1,10 +1,10 @@
-<div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
-    <div class="carousel-inner">
+<div id="carouselExampleAutoplaying" class="carousel slide " data-bs-ride="carousel">
+    <div class="carousel-inner card">
       <div class="carousel-item active">
-        <img src="{{asset('images/logo.png')}}" class="d-block w-100" alt="...">
+        <img src="{{asset('images/logo.png')}}" class="w-100 d-block" alt="...">
       </div>
       <div class="carousel-item">
-        <img src="{{asset('images/v12 engine.webp')}}" class="d-block w-100" alt="...">
+        <img src="{{asset('images/v12_engine.webp')}}" class="  d-block w-100" alt="...">
       </div>
       <div class="carousel-item">
         <img src="..." class="d-block w-100" alt="...">
