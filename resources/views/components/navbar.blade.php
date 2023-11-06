@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg bg-secondary" data-bs-theme="dark">
+<nav class="navbar navbar-expand-lg fixed-top" data-bs-theme="dark">
   <div class="container-fluid" >
       <div class="h-100">
         
@@ -19,7 +19,7 @@
             <a class="nav-link dropdown-toggle active" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               Dropdown
             </a>
-            <ul class="dropdown-menu bg-dark">
+            <ul class="dropdown-menu  grey-filter">
               <li><a class="dropdown-item" href="#">Action</a></li>
               <li><a class="dropdown-item" href="#">Another action</a></li>
               <li><hr class="dropdown-divider"></li>
@@ -31,8 +31,8 @@
           </li>
         </ul>
         <form class="d-flex" role="search">
-          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-          <button class="btn btn-outline-dark" type="submit">Search</button>
+          <input class="form-control me-2" type="search" placeholder="Cerca" aria-label="Search">
+          <button class="btn btn-outline-dark" type="submit">Cerca</button>
         </form>
       </div>
     </div>
