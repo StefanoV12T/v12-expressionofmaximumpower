@@ -1,8 +1,8 @@
-<nav class="navbar navbar-expand-lg fixed-top" data-bs-theme="dark">
+<nav class="navbar navbar-expand-lg " >
   <div class="container-fluid" >
       <div class="h-100">
         
-        <a class="navbar-brand" href="#"> <img class="img-fluid logo" src="{{asset('images/logo.png')}}" alt=""> V12</a>
+        <a class="navbar-brand" href="#"> <img class="img-fluid logo" src="{{asset('images/logov12.png')}}" alt=""> V12</a>
   </div>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
